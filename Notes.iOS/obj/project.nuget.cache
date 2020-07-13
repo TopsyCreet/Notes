@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BQjeMwSKVffq/FRgEyN01HUTL/Y2PMyTCRNsoug4a0la7LDXcS8SLQyuew/bxGEsXQvgfjMuWDdB52lMQlyGQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Topsey Creet\\Downloads\\xamarin\\notes2\\Notes.iOS\\Notes.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Topsey Creet\\.nuget\\packages\\xamarin.forms\\4.7.0.968\\xamarin.forms.4.7.0.968.nupkg.sha512"
+  ],
+  "logs": []
+}
